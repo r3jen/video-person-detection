@@ -18,7 +18,7 @@ CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
 
 # Konfigurasi layout halaman
 st.set_page_config(layout="wide")
-st.title("🎥 Video Person Detection with MobileNet SSD")
+st.title("🎥 Video Person Detection")
 
 # Sidebar untuk upload file
 st.sidebar.header("📂 Upload Video")
